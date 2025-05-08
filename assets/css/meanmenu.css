@@ -40,7 +40,7 @@ a.meanmenu-reveal {
     font-weight: 700
 }
 
-.mean-container a.meanmenu-reveal span {
+.mean-container a.meanmenu-reveal div {
     display: block;
     background: #fff;
     height: 3px;

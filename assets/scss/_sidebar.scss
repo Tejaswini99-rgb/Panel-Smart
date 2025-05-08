@@ -96,7 +96,7 @@
                         padding: 20px 24px;
                         color: $title-color;
 
-                        span {
+                        div {
                             @include transition;
                             color: $title-color;
                         }
@@ -121,7 +121,7 @@
                             color: $white!important;
                         }
 
-                        span {
+                        div {
                             color: $white;
                         }
                     }
@@ -134,7 +134,7 @@
                             color: $white;
                         }
 
-                        span {
+                        div {
                             color: $white;
                         }
                     }

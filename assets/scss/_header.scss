@@ -634,7 +634,7 @@
 							color: $title-color;
 							font-size: 14px;
 
-							span {
+							div {
 								color: $theme-color;
 							}
 						}
@@ -647,7 +647,7 @@
 				font-size: 17px;
 				margin-bottom: 20px;
 
-				span {
+				div {
 					float: right;
 					color: $theme-color;
 					font-weight: 700;
@@ -1275,7 +1275,7 @@
 				}
 			}
 
-			span {
+			div {
 				text-transform: initial;
 			}
 

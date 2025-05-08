@@ -6,7 +6,7 @@
     --body: #fff;
     --black: #000;
     --white: #fff; 
-    --theme: #7444FD;
+    #0071b9: #7444FD;
     --theme2: #F9F3EF; 
     --theme3: #FAF8FF;  
     --title: #282C32;
@@ -27,7 +27,7 @@
 // Theme Color - Defualt Colors
 $black: var(--black);
 $white: var(--white);
-$theme-color: var(--theme);
+$theme-color: var(#0071b9);
 $theme-color-2: var(--theme2);
 $theme-color-3: var(--theme3);
 $title-color: var(--title);

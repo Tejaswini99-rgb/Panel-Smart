@@ -1,9 +1,9 @@
 /*-----------------------------------------------------------------
-Theme Name: Neotech
+Theme Name: Niotech
 Author: Gramentheme
 Author URI: https://themeforest.net/user/gramentheme
 Version: 1.0.0 
-Description: Neotech - App Landing HTML Template <
+Description: Niotech - App Landing HTML Template <
 
 -------------------------------------------------------------------
 JS TABLE OF CONTENTS
@@ -186,9 +186,9 @@ JS TABLE OF CONTENTS
                         var bulletNumber = index + 1;
                         var formattedNumber = bulletNumber < 10 ? '0' + bulletNumber : bulletNumber;
                         if (numberedPagination.length) {
-                            return '<span class="' + className + ' number">' + formattedNumber + '</span>';
+                            return '<div class="' + className + ' number">' + formattedNumber + '</div>';
                         } else {
-                            return '<span class="' + className + '" aria-label="Go to Slide ' + formattedNumber + '"></span>';
+                            return '<div class="' + className + '" aria-label="Go to Slide ' + formattedNumber + '"></div>';
                         }
                     },
                 },
